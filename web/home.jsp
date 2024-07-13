@@ -1,8 +1,4 @@
-<%-- 
-    Document   : jome
-    Created on : Jul 12, 2024, 4:32:53 PM
-    Author     : user
---%>
+
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
